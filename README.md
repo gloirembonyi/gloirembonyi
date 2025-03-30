@@ -171,20 +171,85 @@
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Featured Projects
 
 <div align="center">
-  <a href="https://github.com/gloirembonyi/ai-task-manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gloirembonyi&repo=ai-task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AI Task Manager"/>
-  </a>
-  <a href="https://github.com/gloirembonyi/ecommerce-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gloirembonyi&repo=ecommerce-platform&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="E-Commerce Platform"/>
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/gloirembonyi/healthcare-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gloirembonyi&repo=healthcare-app&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Healthcare App"/>
-  </a>
-  <a href="https://github.com/gloirembonyi/open-source">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gloirembonyi&repo=open-source&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Open Source"/>
-  </a>
+  <p>
+    Here are some of my notable projects that showcase my technical skills and problem-solving approach.
+    Each project represents different challenges and solutions in various domains.
+  </p>
+  <br>
+  <table style="border-collapse: separate; border-spacing: 0 15px;">
+    <tr>
+      <td width="50%" style="border-radius: 10px; padding: 0 10px;">
+        <h3 align="center">🤖 AI Task Manager</h3>
+        <div align="center">
+          <a href="https://github.com/gloirembonyi/ai-task-manager" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="AI Task Manager"/>
+          </a>
+          <p>
+            <a href="https://github.com/gloirembonyi/ai-task-manager" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://ai-task-manager.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00CBFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Python, React, TensorFlow</strong> - A productivity application using machine learning for smart task prioritization and workflow optimization based on user behavior patterns.</p>
+        </div>
+      </td>
+      <td width="50%" style="border-radius: 10px; padding: 0 10px;">
+        <h3 align="center">🛒 E-Commerce Platform</h3>
+        <div align="center">
+          <a href="https://github.com/gloirembonyi/ecommerce-platform" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238355349-7c0e6d9d-90d7-44bf-8785-4bb753d8118c.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="E-Commerce Platform"/>
+          </a>
+          <p>
+            <a href="https://github.com/gloirembonyi/ecommerce-platform" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://ecommerce-platform.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00CBFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, Node.js, MongoDB</strong> - Full-stack e-commerce application with secure payment processing, inventory management, and personalized shopping experiences.</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="border-radius: 10px; padding: 0 10px;">
+        <h3 align="center">🏥 Healthcare Mobile App</h3>
+        <div align="center">
+          <a href="https://github.com/gloirembonyi/healthcare-app" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="Healthcare App"/>
+          </a>
+          <p>
+            <a href="https://github.com/gloirembonyi/healthcare-app" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://healthcare-app.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00CBFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Flutter, Firebase</strong> - Mobile application for patient monitoring with real-time data visualization, medication tracking, and health analytics dashboards.</p>
+        </div>
+      </td>
+      <td width="50%" style="border-radius: 10px; padding: 0 10px;">
+        <h3 align="center">🌟 Open Source Contributions</h3>
+        <div align="center">
+          <a href="https://github.com/gloirembonyi/open-source" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="Open Source"/>
+          </a>
+          <p>
+            <a href="https://github.com/gloirembonyi/open-source" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://gloirembonyi.com/projects" target="_blank">
+              <img src="https://img.shields.io/badge/Projects-00CBFF?style=for-the-badge&logo=open-source-initiative&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>Various Technologies</strong> - Collection of contributions to open-source projects including libraries, frameworks, and documentation improvements across multiple technologies.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>

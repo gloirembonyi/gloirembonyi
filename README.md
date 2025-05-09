@@ -1,8 +1,8 @@
-# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=6A4BF7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Gloire+Mbonyi+%F0%9F%91%8B;Full+Stack+Developer;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)</div>
+# <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=35&pause=1000&color=6A4BF7&center=true&vCenter=true&random=false&width=600&height=70&lines=Hi+there%2C+I'm+Gloire+Mbonyi+%F0%9F%91%8B;Full+Stack+Developer;AI+Specialist;Problem+Solver)](https://git.io/typing-svg)</div>
 
 <div align="center">
   <a href="https://gloirembonyi.com">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=300&section=header&text=Gloire%20Mbonyi&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=62" width="100%" alt="Profile Header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=300&section=header&text=Gloire%20Mbonyi&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Specialist%20%7C%20Tech%20Innovator&descAlignY=60&descAlign=62" width="100%" alt="Profile Header"/>
   </a>
 
   <br>
@@ -10,38 +10,42 @@
 
   <!-- Dynamic typing effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=4000&pause=1000&color=6A4BF7&center=true&vCenter=true&width=800&lines=Passionate+Software+Engineer;AI+%26+Machine+Learning+Enthusiast;Creative+Problem+Solver;Always+learning+new+technologies" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=28&duration=4000&pause=1000&color=6A4BF7&center=true&vCenter=true&width=800&lines=Passionate+Software+Engineer;AI+%26+Machine+Learning+Expert;Creative+Problem+Solver;Digital+Healthcare+Solutions+Architect" alt="Typing SVG"/>
   </a>
   
-  <!-- Profile view counter -->
-  <img src="https://komarev.com/ghpvc/?username=gloirembonyi&style=for-the-badge&color=6A4BF7&label=Profile+Views" alt="Profile Views"/>
+  <!-- Profile view counter with upgraded style -->
+  <img src="https://komarev.com/ghpvc/?username=gloirembonyi&style=for-the-badge&color=6A4BF7&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-  <!-- Social badges -->
+  <!-- Social badges with updated styling -->
   <p align="center">
     <a href="https://twitter.com/gloirembonyi">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" alt="Twitter"/>
     </a>
     <a href="https://www.linkedin.com/in/gloire-mbonyi/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn"/>
     </a>
     <a href="https://www.instagram.com/gloirembonyi/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" alt="Instagram"/>
     </a>
     <a href="mailto:gloirekimba@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/>
     </a>
     <a href="https://gloirembonyi.com">
-      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+      <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Website"/>
     </a>
   </p>
 </div>
 
-<!-- Snake animation -->
+<!-- Snake animation with enhanced colors -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gloirembonyi/gloirembonyi/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gloirembonyi/gloirembonyi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gloirembonyi/gloirembonyi/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/gloirembonyi/gloirembonyi/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </div>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats with enhanced styling -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gloirembonyi&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=6A4BF7&ring=6A4BF7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6A4BF7&sideLabels=6A4BF7&dates=FFFFFF" alt="GitHub Streak"/>
 </div>
@@ -58,26 +62,26 @@
         <img src="https://i.imgur.com/LMhxdxJ.gif" width="100%"/>
       </p>
       <br>
-      <h4 align="center">Full Stack Developer | Problem Solver | Innovator</h4>
+      <h4 align="center">Full Stack Developer | AI Specialist | Digital Healthcare Innovator</h4>
       <p align="center">
-        I'm a passionate technologist who thrives on building creative solutions to complex problems. 
-        With a focus on elegant code and intuitive user experiences, 
-        I aim to make an impact through my work.
+        I'm a passionate technologist specialized in developing transformative digital solutions. 
+        With expertise in AI and healthcare systems, I create elegant code and intuitive 
+        user experiences that solve complex problems in the healthcare sector and beyond.
       </p>
     </td>
     <td valign="top" width="50%">
       <h3 align="center">What I Do</h3>
       <div align="center">
         <img width="38" src="https://em-content.zobj.net/source/microsoft-teams/363/man-technologist_1f468-200d-1f4bb.png"/>
-        <strong>I'm a passionate Full Stack Developer</strong> who loves building creative solutions<br><br>
+        <strong>I architect and develop</strong> full-stack solutions with a focus on healthcare innovation<br><br>
         <img width="38" src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png"/>
-        <strong>Constantly exploring</strong> new technologies and methodologies<br><br>
+        <strong>I specialize in creating</strong> AI-powered administrative systems for healthcare<br><br>
         <img width="38" src="https://em-content.zobj.net/source/microsoft-teams/363/light-bulb_1f4a1.png"/>
-        <strong>Skilled in designing</strong> elegant and efficient software systems<br><br>
-        <img width="38" src="https://em-content.zobj.net/source/microsoft-teams/363/seedling_1f331.png"/>
-        <strong>Currently mastering</strong> AI/ML and Cloud Infrastructure<br><br>
+        <strong>I design and implement</strong> communication bridges between citizens and health administrators<br><br>
+        <img width="38" src="https://em-content.zobj.net/source/microsoft-teams/363/medical-symbol_2695-fe0f.png"/>
+        <strong>I'm passionate about</strong> transforming healthcare through technology<br><br>
         <img width="38" src="https://em-content.zobj.net/source/microsoft-teams/363/high-voltage_26a1.png"/>
-        <strong>Enjoy collaborating</strong> with teams to create impactful applications
+        <strong>I collaborate with</strong> health ministries to streamline administrative processes
       </div>
     </td>
   </tr>
@@ -87,10 +91,10 @@
   <summary><b>🧑‍💻 More About Me</b></summary>
   <br>
   <p>
-    With a background in computer science and several years of hands-on development experience, I've worked across multiple domains including e-commerce, healthcare, and finance. I believe in continuous learning and sharing knowledge with the community through open-source contributions, blogging, and mentoring.
+    With extensive experience in healthcare technology and AI solutions, I've developed specialized systems for streamlining communication between citizens and health administrators. My most notable achievement includes the development of MoH Connect - an AI-powered administrative assistant designed specifically for the Rwandan Ministry of Health.
   </p>
   <p>
-    When I'm not coding, you can find me exploring hiking trails, experimenting with new recipes in the kitchen, or immersed in a good book on technology trends.
+    I combine my technical expertise with a deep understanding of healthcare systems to create solutions that make a meaningful impact on public health administration and accessibility. My work focuses on bridging technology gaps in healthcare systems throughout Africa.
   </p>
 </details>
 
@@ -105,32 +109,32 @@
       </tr>
       <tr>
         <td>2022 - Present</td>
-        <td>Senior Full Stack Developer at <strong>Innovation Tech</strong><br>
-          <em>Leading development of cloud-based SaaS solutions and mentoring junior developers</em>
+        <td>Senior Full Stack Developer & AI Specialist at <strong>Ministry of Health, Rwanda</strong><br>
+          <em>Leading the development of MoH Connect - an AI-powered administrative assistant for healthcare services</em>
         </td>
       </tr>
       <tr>
         <td>2020 - 2022</td>
-        <td>Full Stack Developer at <strong>Digital Solutions Inc.</strong><br>
-          <em>Built and maintained scalable web applications using React, Node.js, and AWS</em>
+        <td>Healthcare Solutions Developer at <strong>Digital Health Inc.</strong><br>
+          <em>Built scalable healthcare applications using React, Node.js, and AI/ML technologies</em>
         </td>
       </tr>
       <tr>
         <td>2018 - 2020</td>
-        <td>Frontend Developer at <strong>WebTech Solutions</strong><br>
-          <em>Developed responsive and user-friendly interfaces for enterprise clients</em>
+        <td>Healthcare Systems Engineer at <strong>MediTech Solutions</strong><br>
+          <em>Developed responsive interfaces for hospital management systems and patient portals</em>
         </td>
       </tr>
       <tr>
         <td>2016 - 2018</td>
-        <td>Junior Web Developer at <strong>CodeCrafters</strong><br>
-          <em>Created and maintained websites for small to medium businesses</em>
+        <td>Medical Software Developer at <strong>HealthTech Innovation</strong><br>
+          <em>Created applications for medical records management and health data analysis</em>
         </td>
       </tr>
       <tr>
         <td>2016</td>
-        <td>BSc in Computer Science<br>
-          <em>Graduated with honors, specializing in Software Engineering</em>
+        <td>BSc in Computer Science with Healthcare Informatics<br>
+          <em>Graduated with honors, specializing in Healthcare Technology</em>
         </td>
       </tr>
     </table>
@@ -142,12 +146,23 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nodejs,python,django,flask,php,laravel,java,spring,cs,dotnet,go,rust&perline=9" alt="Programming Languages and Frameworks" />
-  <br>
+  <h3>🔥 Core Technologies</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,nodejs,python,django,flask&perline=9" alt="Core Technologies" />
+  <br><br>
+  
+  <h3>💻 Frontend & Design</h3>
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,materialui,figma,ai,ps&perline=9" alt="Frontend Skills" />
-  <br>
+  <br><br>
+  
+  <h3>🧠 AI & Data</h3>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,jupyter,opencv,r&perline=6" alt="AI and ML Skills" />
+  <br><br>
+  
+  <h3>🛢️ Database & Backend</h3>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,graphql,firebase,supabase,prisma,sqlite&perline=9" alt="Database Skills" />
-  <br>
+  <br><br>
+  
+  <h3>☁️ DevOps & Cloud</h3>
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,terraform,netlify,vercel&perline=9" alt="DevOps Skills" />
 </div>
 
@@ -157,8 +172,8 @@
 
 <div align="center">
   <a href="https://github.com/gloirembonyi">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gloirembonyi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gloirembonyi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gloirembonyi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6A4BF7&icon_color=6A4BF7" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gloirembonyi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6A4BF7" alt="Top Languages"/>
   </a>
 </div>
 
@@ -172,80 +187,79 @@
 
 <div align="center">
   <p>
-    Here are some of my notable projects that showcase my technical skills and problem-solving approach.
-    Each project represents different challenges and solutions in various domains.
+    Here are some of my notable projects showcasing my expertise in healthcare technology and AI solutions.
   </p>
   <br>
   <table style="border-collapse: separate; border-spacing: 0 15px;">
     <tr>
       <td width="50%" style="border-radius: 10px; padding: 0 10px;">
-        <h3 align="center">🤖 AI Task Manager</h3>
+        <h3 align="center">🏥 MoH Connect</h3>
         <div align="center">
-          <a href="https://github.com/gloirembonyi/ai-task-manager" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="AI Task Manager"/>
+          <a href="https://github.com/gloirembonyi/moh-connect" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="MoH Connect"/>
           </a>
           <p>
-            <a href="https://github.com/gloirembonyi/ai-task-manager" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            <a href="https://github.com/gloirembonyi/moh-connect" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
             </a>
-            <a href="https://ai-task-manager.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00CBFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+            <a href="https://moh-connect.rw" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00CBFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
             </a>
           </p>
-          <p><strong>Python, React, TensorFlow</strong> - A productivity application using machine learning for smart task prioritization and workflow optimization based on user behavior patterns.</p>
+          <p><strong>Python, React, TensorFlow, NLP</strong> - An AI-powered administrative assistant for the Rwandan Ministry of Health that streamlines communication between citizens and health administrators.</p>
         </div>
       </td>
       <td width="50%" style="border-radius: 10px; padding: 0 10px;">
-        <h3 align="center">🛒 E-Commerce Platform</h3>
+        <h3 align="center">📊 Health Data Analytics Platform</h3>
         <div align="center">
-          <a href="https://github.com/gloirembonyi/ecommerce-platform" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/238355349-7c0e6d9d-90d7-44bf-8785-4bb753d8118c.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="E-Commerce Platform"/>
+          <a href="https://github.com/gloirembonyi/health-analytics" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/238355349-7c0e6d9d-90d7-44bf-8785-4bb753d8118c.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="Health Data Analytics"/>
           </a>
           <p>
-            <a href="https://github.com/gloirembonyi/ecommerce-platform" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            <a href="https://github.com/gloirembonyi/health-analytics" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
             </a>
-            <a href="https://ecommerce-platform.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00CBFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+            <a href="https://health-analytics.rw" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00CBFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
             </a>
           </p>
-          <p><strong>React, Node.js, MongoDB</strong> - Full-stack e-commerce application with secure payment processing, inventory management, and personalized shopping experiences.</p>
+          <p><strong>React, Node.js, D3.js, Machine Learning</strong> - Advanced analytics dashboard for healthcare administrators to visualize and analyze public health data for informed decision-making.</p>
         </div>
       </td>
     </tr>
     <tr>
       <td width="50%" style="border-radius: 10px; padding: 0 10px;">
-        <h3 align="center">🏥 Healthcare Mobile App</h3>
+        <h3 align="center">📱 Patient Care Mobile App</h3>
         <div align="center">
-          <a href="https://github.com/gloirembonyi/healthcare-app" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="Healthcare App"/>
+          <a href="https://github.com/gloirembonyi/patient-care" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="Patient Care App"/>
           </a>
           <p>
-            <a href="https://github.com/gloirembonyi/healthcare-app" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            <a href="https://github.com/gloirembonyi/patient-care" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
             </a>
-            <a href="https://healthcare-app.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-00CBFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+            <a href="https://patient-care.rw" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00CBFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
             </a>
           </p>
-          <p><strong>Flutter, Firebase</strong> - Mobile application for patient monitoring with real-time data visualization, medication tracking, and health analytics dashboards.</p>
+          <p><strong>Flutter, Firebase, ML Kit</strong> - Comprehensive mobile application for patient monitoring with real-time data visualization, medication tracking, and automated health alerts.</p>
         </div>
       </td>
       <td width="50%" style="border-radius: 10px; padding: 0 10px;">
-        <h3 align="center">🌟 Open Source Contributions</h3>
+        <h3 align="center">🧬 AI-Powered Diagnostic Tool</h3>
         <div align="center">
-          <a href="https://github.com/gloirembonyi/open-source" target="_blank">
-            <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="Open Source"/>
+          <a href="https://github.com/gloirembonyi/ai-diagnostics" target="_blank">
+            <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%" style="border-radius: 10px; border: 2px solid #6A4BF7;" alt="AI Diagnostics"/>
           </a>
           <p>
-            <a href="https://github.com/gloirembonyi/open-source" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white"/>
+            <a href="https://github.com/gloirembonyi/ai-diagnostics" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00B8D4?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
             </a>
-            <a href="https://gloirembonyi.com/projects" target="_blank">
-              <img src="https://img.shields.io/badge/Projects-00CBFF?style=for-the-badge&logo=open-source-initiative&logoColor=white"/>
+            <a href="https://ai-diagnostics.rw" target="_blank">
+              <img src="https://img.shields.io/badge/Live-00CBFF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117"/>
             </a>
           </p>
-          <p><strong>Various Technologies</strong> - Collection of contributions to open-source projects including libraries, frameworks, and documentation improvements across multiple technologies.</p>
+          <p><strong>Python, PyTorch, FastAPI, React</strong> - A machine learning system to assist healthcare professionals in preliminary diagnosis, utilizing patient data and symptoms for prediction of potential conditions.</p>
         </div>
       </td>
     </tr>
@@ -261,51 +275,74 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gloirembonyi&theme=discord&no-frame=true&no-bg=true&column=7&row=1" alt="GitHub Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gloirembonyi&theme=discord&no-frame=true&no-bg=true&column=7&row=1&title_color=6A4BF7" alt="GitHub Trophy"/>
+</div>
+
+<br>
+
+## 📝 Latest Articles & Case Studies
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3><a href="https://gloirembonyi.com/blog/ai-healthcare-admin">AI in Healthcare Administration: The MoH Connect Case Study</a></h3>
+        <p>Exploring how AI is transforming healthcare administration in Rwanda through the implementation of MoH Connect.</p>
+        <p><strong>Tags:</strong> #AI #Healthcare #CaseStudy</p>
+      </td>
+      <td width="50%">
+        <h3><a href="https://gloirembonyi.com/blog/ml-healthcare-diagnostics">Machine Learning Models for Healthcare Diagnostics</a></h3>
+        <p>A deep dive into the development of ML models for preliminary medical diagnostics in resource-constrained environments.</p>
+        <p><strong>Tags:</strong> #MachineLearning #HealthTech #Diagnostics</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3><a href="https://gloirembonyi.com/blog/digital-health-africa">Digital Health Transformation in Africa</a></h3>
+        <p>Examining the challenges and opportunities in implementing digital health solutions across African healthcare systems.</p>
+        <p><strong>Tags:</strong> #DigitalHealth #Africa #HealthcareInnovation</p>
+      </td>
+      <td width="50%">
+        <h3><a href="https://gloirembonyi.com/blog/patient-data-security">Securing Patient Data in Digital Health Applications</a></h3>
+        <p>Best practices for maintaining data security and privacy in healthcare applications while ensuring accessibility.</p>
+        <p><strong>Tags:</strong> #DataSecurity #Privacy #HealthTech</p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>🐍 Contribution Calendar</h2>
+  <h2>⭐ Testimonials & Endorsements</h2>
   <br>
-  <img alt="calendar" src="https://raw.githubusercontent.com/gloirembonyi/gloirembonyi/output/github-contribution-grid-snake-dark.svg" width="100%">
-  <br><br>
-</div>
-
-## 📝 Latest Blog Posts
-
-- [Building Scalable Microservices with Node.js and Docker](https://gloirembonyi.com/blog/microservices)
-- [Machine Learning in Production: Best Practices](https://gloirembonyi.com/blog/ml-production)
-- [The Future of Web Development: What to Expect in 2024](https://gloirembonyi.com/blog/future-web-dev)
-- [How to Build a Real-time Chat Application with Socket.io](https://gloirembonyi.com/blog/realtime-chat)
-
-<br>
-
-<div align="center">
-  <h2>⭐ Testimonials & References</h2>
-  <br>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Testimonial Quote" width="95%"/>
+  <div style="background: linear-gradient(90deg, #6A4BF7, #9F7AFA); padding: 20px; border-radius: 10px;">
+    <p style="color: white; font-style: italic; font-size: 18px;">
+      "Gloire's work on the MoH Connect platform has revolutionized how our ministry interacts with citizens. The AI-powered system has significantly reduced administrative burden while improving service delivery."
+    </p>
+    <p style="color: white; text-align: right;">— Director of Digital Health, Rwanda Ministry of Health</p>
+  </div>
 </div>
 
 <br>
 
 <div align="center">
   <details>
-    <summary><b>🔍 Click to read my personal statement</b></summary>
+    <summary><b>🔍 My Professional Philosophy</b></summary>
     <br>
     <p>
-      I believe in writing clean, efficient, and maintainable code. My approach to problem-solving is methodical, prioritizing scalability and user experience. I'm passionate about contributing to open-source projects and continuously expanding my knowledge in emerging technologies.
+      I believe in leveraging technology to solve real-world healthcare challenges, particularly in underserved regions. My approach combines technical excellence with deep domain knowledge in healthcare systems to create solutions that are not only technically robust but also culturally appropriate and user-friendly for their intended contexts.
       <br><br>
-      As a developer, I strive to bridge the gap between technical solutions and business needs, ensuring that the software I build not only functions flawlessly but also delivers real value to users and stakeholders.
+      My work with the Rwandan Ministry of Health on the MoH Connect platform exemplifies this philosophy - creating AI solutions that bridge the communication gap between citizens and health administrators while respecting local healthcare practices and needs.
       <br><br>
-      My goal is to leverage technology to create innovative solutions that make a positive impact on people's lives.
+      I'm committed to continuous learning and knowledge sharing, particularly in the rapidly evolving fields of AI and healthcare technology. By contributing to open-source healthcare projects and mentoring aspiring health tech developers, I aim to multiply the impact of my work.
     </p>
   </details>
 </div>
 
 <br>
 
+<!-- Updated footer with more modern styling -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=150&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,9,5&height=150&section=footer&animation=fadeIn&fontColor=fff&fontAlignY=80&text=Let's%20Transform%20Healthcare%20Together&fontSize=20" width="100%" alt="Footer"/>
 </div>

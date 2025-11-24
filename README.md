@@ -18,7 +18,7 @@
 
 ## ⚡ About Me
 
-I am a software engineer passionate about **AI** and **Digital Health**. Currently, I lead development at the **Ministry of Health, Rwanda**, building **MoH Connect**, an AI-powered assistant bridging the gap between citizens and healthcare services.
+I am a software engineer passionate about **AI** and **Digital Health**. I specialize in building **AI-powered assistants** that bridge the gap between citizens and healthcare services.
 
 - 🔭 **Working on**: AI-driven healthcare diagnostics and administrative systems.
 - 🌱 **Learning**: Advanced NLP and scalable cloud architectures.
@@ -39,11 +39,11 @@ I am a software engineer passionate about **AI** and **Digital Health**. Current
 
 ## 🚀 Featured Projects
 
-| Project                                                                     | Description                                                                                          |          Tech          |
-| :-------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :--------------------: |
-| **[🏥 MoH Connect](https://github.com/gloirembonyi/moh-connect)**           | AI-powered admin assistant for Rwanda's Ministry of Health. Streamlines citizen-admin communication. | `Python` `React` `NLP` |
-| **[📊 Health Analytics](https://github.com/gloirembonyi/health-analytics)** | Advanced dashboard for visualizing public health data and aiding decision-making.                    | `Node.js` `D3.js` `ML` |
-| **[📱 Patient Care App](https://github.com/gloirembonyi/patient-care)**     | Mobile app for patient monitoring, medication tracking, and health alerts.                           |  `Flutter` `Firebase`  |
+| Project                                                                     | Description                                                                                  |          Tech          |
+| :-------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------- | :--------------------: |
+| **[🏥 MoH Connect](https://github.com/gloirembonyi/moh-connect)**           | AI-powered admin assistant for healthcare services. Streamlines citizen-admin communication. | `Python` `React` `NLP` |
+| **[📊 Health Analytics](https://github.com/gloirembonyi/health-analytics)** | Advanced dashboard for visualizing public health data and aiding decision-making.            | `Node.js` `D3.js` `ML` |
+| **[📱 Patient Care App](https://github.com/gloirembonyi/patient-care)**     | Mobile app for patient monitoring, medication tracking, and health alerts.                   |  `Flutter` `Firebase`  |
 
 <br/>
 

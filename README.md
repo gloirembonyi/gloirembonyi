@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&pause=1000&color=6A4BF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Gloire+Mbonyi;Building+Digital+Healthcare;AI+%26+Full+Stack+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=40&pause=1000&color=6A4BF7&center=true&vCenter=true&width=600&lines=Hi,+I'm+Software+Developer;Building+Digital+Healthcare;AI+%26+Full+Stack+Engineer" alt="Typing SVG" />
   
   <p align="center">
     <b>Full Stack Developer | AI Specialist | Healthcare Innovator</b><br/>
